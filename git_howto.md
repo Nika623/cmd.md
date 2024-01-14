@@ -14,4 +14,7 @@ git init
 >*git checkout* -переход от одного коммита к другому.
 >>*git checkout master* -вернуться к актуальному состоянию и продолжить работу.
 
+### *Ссылки*
+Красивые горы [https://w.forfun.com/fetch/a2/a2d0571178a1a205aac1139e100ed1a8.jpeg]
+
 
